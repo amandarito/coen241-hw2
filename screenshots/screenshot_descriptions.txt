@@ -1,0 +1,14 @@
+figlet.png
+  this is my screenshot of invoking figlet.
+
+logs1.png & logs2.png
+  these are my screenshots of running the sudo journalctl -u faasd --lines 40 command.
+
+invoke-request.png
+  this is a screenshot of invoking the slack-request and the response.
+
+invoke-interactive.png
+  this is a screenshot of invoking the slack-interactive and the response.
+
+gateway.png
+  this is a screenshot of the status of the 3 functions (figlet, request, interactive).
