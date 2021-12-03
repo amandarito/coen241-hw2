@@ -75,7 +75,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 	    |
 	    V
 
-     sends message to switch
+     forward message to port
 ```
 2. using command $ h1 ping -c100 hx
 ```
